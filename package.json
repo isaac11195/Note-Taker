@@ -1,10 +1,11 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "The purpose of the website is to make note with title to remember the things\r that you already forgot. And when you finish with the note you erease the note when ever you want.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
